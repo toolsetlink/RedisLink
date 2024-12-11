@@ -1,6 +1,6 @@
 ## English | [中文](README_ZH.md)
 
-# 🌟 Introducing the Redis Visualization Tool! 🌟
+## 🌟 Introducing the Redis Visualization Tool! 🌟
 
 ## We are excited to announce that our Redis Visualization Tool is now live and has its own dedicated repository on GitHub! This tool is designed to help developers efficiently manage and monitor their Redis databases, making your work much easier.
 
